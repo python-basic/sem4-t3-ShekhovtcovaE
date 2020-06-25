@@ -1,3 +1,7 @@
+"""
+    Разработка прототипа приложения “Регистрация на конференцию” на основе фрагмента технического задания с использованием ООП.
+    Шеховцова Е. Г.
+"""
 
 class NewRegistration():
     def __init__(self, fname="", sname="", email="", password="", address = "", sorceinfo = "",  postalcode = "", city = "", country = "", regtype = "", affiliation = ""):
